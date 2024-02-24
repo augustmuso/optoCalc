@@ -1,4 +1,3 @@
-```markdown
 # Optometry Formulas
 
 This project contains a collection of optometry formulas implemented in Python.
@@ -14,13 +13,13 @@ The first class of refraction prescription is represented in the `RefractionPres
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/augustmuso/optometry-formulas.git
+git clone https://github.com/augustmuso/optoCalc.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd optometry-formulas
+cd optoCalc
 ```
 
 3. Install the required dependencies:
@@ -43,4 +42,3 @@ This will execute example usage of the optometry formulas and print the results.
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-```
