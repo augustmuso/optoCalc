@@ -1,4 +1,3 @@
-Sure, here's the content in a single markdown file:
 
 ```markdown
 # Optometry Formulas
@@ -43,4 +42,4 @@ This will execute example usage of the optometry formulas and print the results.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-Replace `"your-username"` in the repository URL with your actual GitHub username. If you have a `LICENSE` file, make sure to adjust the link accordingly.
+Replace `"augustmuso"` in the repository URL with your actual GitHub username. If you have a `LICENSE` file, make sure to adjust the link accordingly.
